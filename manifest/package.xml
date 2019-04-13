@@ -3,16 +3,8 @@
     <types>
         <members>ProductLineItemManager</members>
         <members>ProductLineItemManagerTest</members>
+        <members>TestScratch</members>
         <name>ApexClass</name>
-    </types>
-    <types>
-        <members>LineItemTrigger</members>
-        <name>ApexTrigger</name>
-    </types>
-    <types>
-        <members>Line_Item__c</members>
-        <members>Product_Line_Item__c</members>
-        <name>CustomObject</name>
     </types>
     <version>45.0</version>
 </Package>
